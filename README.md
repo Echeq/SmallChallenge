@@ -1,0 +1,2 @@
+# SmallChallenge
+Code with friends
